@@ -20,3 +20,13 @@
 
 ## Linux Docker Options
 * Go to Docker site for latest instructions
+
+# Quiz 1
+## Question 1: What is the best edition of Docker for Windows 10 Pro or Enterprise
+Docker Desktop for Windows
+
+## Question 2: What is the easiest way to install Docker for Linux
+Use Docker's install script at get.docker.com
+
+## Question 3: Why might you use Docker Toolbox on Windows 10?
+You're using Windows 10 Home, which doesn't support Hyper-V
